@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/mhunawar31/Development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mhunawar31/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/mhunawar31/Documents/d2y/development/flutter/audio_player_and_equalizer/android/app/.cxx/RelWithDebInfo/5n733y3d/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mhunawar31/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/mhunawar31/Documents/d2y/development/flutter/audio_player_and_equalizer/android/app/.cxx/RelWithDebInfo/5n733y3d/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/mhunawar31/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/mhunawar31/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/mhunawar31/Development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mhunawar31/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/mhunawar31/Documents/d2y/development/flutter/audio_player_and_equalizer/android/app/.cxx/Debug/2n2s4g1o/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mhunawar31/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/mhunawar31/Documents/d2y/development/flutter/audio_player_and_equalizer/android/app/.cxx/Debug/2n2s4g1o/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
